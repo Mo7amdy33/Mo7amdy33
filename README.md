@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Mo7amdy33/Mo7amdy33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ☉ My discord:
+[![Discord Banner 4](https://discordapp.com/api/guilds/767373990037159948/widget.png?style=banner4)](https://discord.gg/evkbMKeV4k)
+
+### ● My bot (Top.gg):
+[![Discord Bots](https://top.gg/api/widget/776758140321923093.svg)](https://top.gg/bot/776758140321923093)
