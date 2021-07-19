@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mo7amdy33
 - 
-  <img align="center" src="https://discord.c99.nl/widget/theme-1/693205681238442077.png"/> 
+  <img align="center" src="https://discord.c99.nl/widget/theme-2/693205681238442077.png"/> 
 
 ### ☉ My discord:
 [![Discord Banner 4](https://discordapp.com/api/guilds/767373990037159948/widget.png?style=banner4)](https://discord.gg/evkbMKeV4k)
