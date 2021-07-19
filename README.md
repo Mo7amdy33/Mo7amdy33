@@ -7,3 +7,7 @@
 
 ### ● My bot (Top.gg):
 [![Discord Bots](https://top.gg/api/widget/776758140321923093.svg)](https://top.gg/bot/776758140321923093)
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/Mo7amdy33/count.svg" />  
+</p>
